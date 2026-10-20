@@ -44,16 +44,6 @@ Phone cleaner, like the name say, no spammy ads, probably some affiliate link, m
 
 ---
 
-## 🛠️ Tech Stack & Architecture
-
-While each product has its own specific stack, Celtaury projects generally share a commitment to modern, efficient Android development:
-*   **Language:** Kotlin
-*   **UI:** Jetpack Compose & Material 3
-*   **Architecture:** Clean Architecture / MVI
-*   **Performance:** Heavy focus on 120Hz smoothness and low memory footprint (tested on both flagship (S24 Ultra) and budget devices (A15).
-
----
-
 ## ☕ Support the Studio
 
 Celtaury is entirely self-funded and developed in my free time alongside my studies. If you want, you can support my journey in developing alternative to current technology ecosystem:
