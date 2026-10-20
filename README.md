@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#-our-philosophy">Philosophy</a> •
+  <a href="#-philosophy">Philosophy</a> •
   <a href="#-products">Products</a> •
   <a href="#-support">Support</a> •
   <a href="#-contact">Contact</a>
@@ -17,27 +17,26 @@
 
 ---
 
-## 🧭 Our Philosophy
+## 🧭 Philosophy
 
-Celtaury is an independent software studio founded by a 16-year-old developer. We were born out of boredom with the modern mobile ecosystem full of apps bloated with ads, unnecessary subscription models, and invasive data tracking. 
+Celtaury is a company name I made since 12, and I officially made official 24 November 2026, my philosophy for this company is simple.
 
-We believe software should work for you without drama.
+"Don't be evil"
 
-Our mission is to build **premium, minimalist, and privacy-respecting utilities** that respect the user's time, data, and intelligence. We design for focus, not money.
+while it sound simple it was proven quite hard to keep the promises. Celtaury, though, will be build on that, beside the quote don't be evil we have some points we will consistently apply across the company 
 
-### The Celtaury Standard
-Every app we release adheres to three strict rules:
-1. 🚫 **No annoying ads & invasive data collection:** We do not sell your data. We do not show you spammy ads.
-2. 🪶 **Intentional Design:** Minimalist UI/UX built with Jetpack Compose. No gimmicks, no fake animations, no bloat.
-3. 🔒 **Privacy by Default:** We utilize modern Android frameworks (like SAF) to ensure we only touch the files you tell us to.
+### Celtaury Points
+1. Monetization should not be invasive, annoying, unnecessary (meaning basic feature or feature that dont require complex engineering should be free), or predatory.
+2. Our earnings and expenses are transparent for the public to see, every source, every milestone, all transparent.
+3. We hear you, your suggestion are not a small thing, we should take suggestion and answer why we apply/didnt apply it, or how we apply it.
 
 ---
 
 ## 📦 Products
 
 ### 🪶 [Cura](https://github.com/celtaury/cura) *(In Development)*
-**The Anti-Cleaner.** 
-A minimalist, ad-free storage analyzer and file manager for Android. Cura is designed to replace the predatory, spam-filled "phone cleaner" apps on the Play Store with a calm, transparent, and highly optimized alternative. 
+**Phone cleaner.** 
+Phone cleaner, like the name say, no spammy ads, probably some affiliate link, more of a suggestion than a monetization lol.
 *   **Status:** 🟡 Active Development (Alpha)
 *   **Platform:** Android (Optimized for phones & tablets)
 
